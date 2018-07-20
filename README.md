@@ -21,3 +21,8 @@
 2. Week 28 - July 9
 3. https://public.tableau.com/profile/ashish.tele#!/vizhome/VolcanoEruptions_26/Map
 
+### MakeoverMonday: MBA Team Spending
+
+1. Data Source: http://www.celticshub.com/2017/12/07/nba-player-salaries-1991-2017/
+2. Week 29 - July 16
+3. https://public.tableau.com/profile/ashish.tele#!/vizhome/NBASpendingMakeoverMonday/NBASpending
