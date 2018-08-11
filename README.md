@@ -32,3 +32,7 @@
 1. Data Source: https://www.oecd.org/els/soc/PF2_1_Parental_leave_systems.pdf
 2. Week 30 - July 23
 3. https://public.tableau.com/profile/ashish.tele#!/vizhome/OECD_20/OECD
+
+### Academic Project - 2
+
+1. Concept replication
