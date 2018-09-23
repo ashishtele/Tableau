@@ -43,3 +43,9 @@
 ### Academic Project - 2
 
 1. Concept replication
+
+### Retail store sales forecasting
+
+1. Academic project
+2. Exploratory data analysis
+
